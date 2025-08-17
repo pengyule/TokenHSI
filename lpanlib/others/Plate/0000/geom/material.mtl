@@ -1,0 +1,8 @@
+# https://github.com/mikedh/trimesh
+
+newmtl material_0
+Ka 0.8 0.8 0.8     # Ambient color (light gray)
+Kd 0.8 0.8 0.8     # Diffuse color (light gray)
+Ks 0.2 0.2 0.2     # Specular color (slight white)
+Ns 10             # Shininess (adjust for desired gloss)
+Tr 0.1             # Transparency (adjust for desired translucency)
